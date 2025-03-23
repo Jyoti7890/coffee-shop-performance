@@ -1,5 +1,8 @@
 ## Coffee Shop Sales Performance Dashboard - Sales Trends and Customer Insight  
 
+![Coffee Shop Sales Dashboard](https://github.com/Jyoti7890/coffee-shop-performance/blob/master/coffee%20shop%20dashboard%20screenshot.png)
+
+
 ### Why did I do it?  
 
 This dashboard is designed to analyze the trends and customer behavior for the sale of a coffee shop using Power Query, Pivot Table and Interactive Visualization. The goal is to transform raw data into insights that help to improve sales strategies, product offerings and customer experience.
